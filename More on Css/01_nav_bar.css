@@ -1,0 +1,19 @@
+nav{
+    background-color: cornflowerblue;
+    height: 9s0px;
+}
+ul{
+    display: flex;
+}
+ul li {
+    list-style: none;
+    padding: 30px;
+    font-size: 30px;
+        
+}
+a{
+    color: white;
+}
+a:hover{
+    color: red;
+}

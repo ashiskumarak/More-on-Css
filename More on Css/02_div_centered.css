@@ -1,0 +1,17 @@
+.center{
+    height: 350px;
+    width: 380px;
+    background-color: rgb(204, 188, 7);
+    margin: 0 auto;
+    border-radius: 18px;
+}
+
+img{
+    height: 200px;
+    margin: 10px;
+    border-radius: 18px;
+}
+p{
+    margin-left: 10px;
+    margin-top: 23px;
+}

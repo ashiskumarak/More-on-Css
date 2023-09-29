@@ -1,0 +1,23 @@
+.bord1 {
+    height: 380px;
+    width: 400px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.center1 {
+    height: 350px;
+    width: 380px;
+    background-color: rgb(39, 219, 201);
+    border-radius: 18px;
+    margin: 10px;
+    
+}
+img {
+    height: 200px;
+    margin: 10px;
+    border-radius: 18px;
+}
+p {
+    margin-left: 10px;
+    margin-top: 23px;
+}
